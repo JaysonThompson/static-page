@@ -1,0 +1,8 @@
+@import './components/Footer/styles.css';
+@import './components/Header/styles.css';
+@import './components/MainContent/styles.css';
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
