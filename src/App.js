@@ -12,7 +12,7 @@ const App = () => {
       <ul>
         <li>Was first released in 2013</li>
         <li>Was originally created bby Jorday Walke</li>
-        <li>Has well over 100K stars in GitHub</li>
+        <li>Has well over 100k stars in GitHub</li>
         <li>Is maintained by Facebook</li>
         <li>Powers thousands of enterprise apps, including mobile apps</li>
       </ul>
