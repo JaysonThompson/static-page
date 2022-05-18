@@ -3,7 +3,7 @@ import React from 'react'
 const App = () => {
   return (
     <>
-      <img src="../public/logo192.png" alt="React Logo" width="40px" />
+      <img src="../public/react-logo.png" alt="React Logo" width="40px" />
       <h1>Fun facts about React</h1>
       <ul>
         <li>Was first released in 2013</li>
